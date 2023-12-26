@@ -5,8 +5,7 @@ import 'package:flutter/material.dart';
 //String uri ="http://20.20.18.245:5000" ; 
 //String uri ="http://192.168.1.26:5000" ;  // dar
 //String uri ="http://96.45.46.46:5000" ; 
-String uri = 'http://192.168.88.184:5000'; //my phone  192.168.132.184
-
+String uri = 'http://192.168.88.184:5000'; //my phone192.168.88.184
 class GlobalVariables {
   // COLORS
   static const appBarGradient = LinearGradient(
