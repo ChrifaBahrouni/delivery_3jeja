@@ -1,6 +1,14 @@
-# delivery_3jeja
 
-A new Flutter project.
+#  Application  Mobile :  delivery_3jeja 
+
+## Description
+Une application mobile de gestion de livraison pour les petits fast food ,  développée avec Flutter.
+
+ 
+## Captures d'écran
+
+<img src="captures/.trashed-1694271208-Screenshot_2023-08-10-15-34-08-65_ece6d2247aef7483ada928113aae8f33.jpg"  width="250" height="400" /> <img src="captures/.trashed-1694271208-Screenshot_2023-08-10-15-47-22-36_ece6d2247aef7483ada928113aae8f33.jpg"  width="250" height="400" /> <img src="captures/.trashed-1694378112-Screenshot_2023-08-11-21-13-48-23_ece6d2247aef7483ada928113aae8f33.jpg"  width="250" height="400" /> <img src="captures/acceptorder.jpg"  width="250" height="400" /> <img src="captures/consulter bon plan.jpg"  width="250" height="400" />  <img src="captures/consulter bon plan.jpg"  width="250" height="400" />   <img src="captures/detailsproduit.jpg"  width="250" height="400" />    <img src="captures/home.jpg " width="250" height="400" />   
+
 
 ## Getting Started
 
